@@ -1,5 +1,12 @@
 ﻿# OOADJ_Project_UE20CS352
 
+use case
+![image](https://user-images.githubusercontent.com/51742316/234727461-cd169b04-6ded-405c-9b2b-42319ba421cf.png)
+
+class diagram
+![image](https://user-images.githubusercontent.com/51742316/234727514-8ad33d7a-a276-4a17-bf39-e396a5a15825.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/51742316/234725615-f1144a8b-2e7f-4649-8c4a-88789b039bd3.png)
 
