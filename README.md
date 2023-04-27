@@ -1,5 +1,29 @@
 ﻿# OOADJ_Project_UE20CS352
 
+# Design Patterna Used in the Project:
+
+Singleton Pattern on Database Connection
+
+Factory Methods Pattern For Database
+
+MVC Pattern
+
+Data Access Object Pattern For FormData
+
+Observer Pattern on LoginPanel
+
+
+
+# Design Principles used in the Project:
+
+Open-Close Principles For MCQ Questions
+
+
+
+
+
+
+
 use case
 ![image](https://user-images.githubusercontent.com/51742316/234727461-cd169b04-6ded-405c-9b2b-42319ba421cf.png)
 
